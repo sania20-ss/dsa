@@ -25,3 +25,7 @@ public class Sum
        System.out.print(sum(arr));
 	}
 }
+
+//  ypu can  also  use  
+//  Arrays.stream(arr).sum();
+// this is  used  to  convert the  array  intov  stream  for  ex :  for [0,1,2] 0 -> 1 -> 2 and  then  .sum()  function  will add that  to  0+1+2 = 3 
