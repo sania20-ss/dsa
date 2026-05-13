@@ -26,6 +26,6 @@ public class Sum
 	}
 }
 
-//  ypu can  also  use  
+//  you can  also  use  
 //  Arrays.stream(arr).sum();
-// this is  used  to  convert the  array  intov  stream  for  ex :  for [0,1,2] 0 -> 1 -> 2 and  then  .sum()  function  will add that  to  0+1+2 = 3 
+// this is  used  to  convert the  array  into  stream  for  ex :  for [0,1,2] 0 -> 1 -> 2 and  then  .sum()  function  will add that  to  0+1+2 = 3 
