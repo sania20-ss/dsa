@@ -23,7 +23,12 @@ public class shortestpath {
     return (float) Math.sqrt(x2+y2);
    }
    public static void main (String[] args){
-    String  path = "WNEENENNN";
+    String  path = "NS";
     System.out.print(shortest(path));
    }
 }
+
+//------------- time  complexity ---------- O(n)
+
+
+
