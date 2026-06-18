@@ -12,3 +12,13 @@ class Student() {
     int  roll;
 
 }
+
+
+
+// deep  and  shallow  constructor  
+
+ /* 
+  deep  -  changes  dont  reflect 
+  shallow  -  changes  reflect 
+  
+ */ 
