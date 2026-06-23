@@ -1,0 +1,17 @@
+  ***packages  in java****  
+
+it  is  a  goroup  of  similar  types of  classes , interfaces  ,  and  sub-packages 
+
+ **** types  of  packages in java ***
+  - in-built
+  - user  defined 
+
+
+***  in - built packages **
+ import java.util.*;  (utility  packages  present  in this  )
+ Scanner  sc =  new  Scanner(System.in);
+
+
+*** user  defined ***
+creating  a  file  myPackage
+package myPackage ;  //user  defined
