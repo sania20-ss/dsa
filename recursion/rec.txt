@@ -1,0 +1,25 @@
+Recursion 
+ 
+ (mostly  used in tree ,  graphs  , dp)
+
+ -iteration 
+ - function
+
+ using Math  
+ a  function calling  itself  again  and  again  
+ eg  .  factorial  5  -> , 1, 2!,3!,4! , 5! (Recursive  funtion )
+
+Recusion is  a  method  of  solving  a  computational  problem  where the  solution depends  on  solution  to  
+smaller  instance of  the  same  problem 
+defining the base case
+-- base  case  = the  case where the  recusion end  and  we  know  the  ans 
+
+
+****2 - directions ***
+
+-    top  to  down  (towards  base  case )
+-  main ----> func -->func  ------> base  func
+
+-  base  case 
+-  kaam 
+-  f(n-1 ) inner  cell 
