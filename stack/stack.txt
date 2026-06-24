@@ -1,0 +1,11 @@
+stack  (LIFO)
+-  implicit  stack  
+- explicit  stack (user  made)
+
+
+Operations of  stack  
+-  push 0(1)
+-  pop 0(1)
+-  peek 0(1) {to  look  jhakna  top  element  } 
+
+peek  is like the  count of the  stack  
