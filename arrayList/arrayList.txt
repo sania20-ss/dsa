@@ -1,0 +1,16 @@
+Array  list  
+- inbuilt 
+-linear data structure 
+
+ we  cant use  primitive data types in  arraylist  we  need to 
+ use non primitive data type 
+ eg .  int is  wrong 
+ instead  Integer  class is  used    
+
+
+operations  
+- add element 0(1)
+-  get  element 0(1)
+- remove  element 0(n)
+- set element at  index 0(n)
+-  cotnain  element 0(n)
